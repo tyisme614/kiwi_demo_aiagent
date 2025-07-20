@@ -1,10 +1,11 @@
 <template>
   <div class="chat-container">
     <iframe
-      src="http://4.230.11.58/chat/share?shared_id=c9d21de42a8611f095cd8e91e638df1c&from=agent&auth=ljMzE4YjQyMmE4NDExZjA4OWNkOGU5MW"
-      style="width: 100%; height: 100%; min-height: 600px"
-      frameborder="0"
-    ></iframe>
+        src="http://ai.kiwitech.net.cn/chat/share?shared_id=80de8ede650e11f0944782083e95ce54&from=agent&auth=FiZjQ4NTE4NjUwZjExZjA4Y2E5ODIwOD&locale=zh"
+        style="width: 100%; height: 100%; min-height: 600px"
+        frameborder="0"
+    >
+    </iframe>
   </div>
 </template>
 
